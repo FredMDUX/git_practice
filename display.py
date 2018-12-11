@@ -5,3 +5,7 @@ if len(name) > 5:
 else:
 	print "you have a short name"
 
+if name == "Frederick":
+	print "Developer: Frederick Mlungisi Dandure"
+
+
