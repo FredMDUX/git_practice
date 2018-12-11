@@ -7,5 +7,10 @@ else:
 
 if name == "Frederick":
 	print "Developer: Frederick Mlungisi Dandure"
+	print "\n"
+	print "Age: 23"
+	print "\n"
+	print "Occupation: Software Engineer"
+
 
 
